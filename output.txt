@@ -1,0 +1,4298 @@
+Number of Vertices: 10
+Group: 1
+Minimum number of color: 2
+Average time for running: 2
+Group: 2
+Minimum number of color: 2
+Average time for running: 0
+Group: 3
+Minimum number of color: 2
+Average time for running: 0
+Group: 4
+Minimum number of color: 2
+Average time for running: 0
+---------------
+Number of Vertices: 20
+Group: 1
+Minimum number of color: 3
+Average time for running: 0
+Group: 2
+Minimum number of color: 2
+Average time for running: 0
+Group: 3
+Minimum number of color: 2
+Average time for running: 0
+Group: 4
+Minimum number of color: 2
+Average time for running: 0
+---------------
+Number of Vertices: 30
+Group: 1
+Minimum number of color: 3
+Average time for running: 0
+Group: 2
+Minimum number of color: 3
+Average time for running: 0
+Group: 3
+Minimum number of color: 2
+Average time for running: 0
+Group: 4
+Minimum number of color: 2
+Average time for running: 0
+---------------
+Number of Vertices: 40
+Group: 1
+Minimum number of color: 4
+Average time for running: 1
+Group: 2
+Minimum number of color: 3
+Average time for running: 1
+Group: 3
+Minimum number of color: 3
+Average time for running: 1
+Group: 4
+Minimum number of color: 3
+Average time for running: 1
+---------------
+Number of Vertices: 50
+Group: 1
+Minimum number of color: 4
+Average time for running: 1
+Group: 2
+Minimum number of color: 3
+Average time for running: 1
+Group: 3
+Minimum number of color: 3
+Average time for running: 1
+Group: 4
+Minimum number of color: 3
+Average time for running: 1
+---------------
+Number of Vertices: 60
+Group: 1
+Minimum number of color: 4
+Average time for running: 1
+Group: 2
+Minimum number of color: 4
+Average time for running: 1
+Group: 3
+Minimum number of color: 3
+Average time for running: 1
+Group: 4
+Minimum number of color: 2
+Average time for running: 1
+---------------
+Number of Vertices: 70
+Group: 1
+Minimum number of color: 5
+Average time for running: 2
+Group: 2
+Minimum number of color: 3
+Average time for running: 2
+Group: 3
+Minimum number of color: 3
+Average time for running: 2
+Group: 4
+Minimum number of color: 2
+Average time for running: 1
+---------------
+Number of Vertices: 80
+Group: 1
+Minimum number of color: 4
+Average time for running: 2
+Group: 2
+Minimum number of color: 4
+Average time for running: 2
+Group: 3
+Minimum number of color: 4
+Average time for running: 2
+Group: 4
+Minimum number of color: 3
+Average time for running: 2
+---------------
+Number of Vertices: 90
+Group: 1
+Minimum number of color: 5
+Average time for running: 3
+Group: 2
+Minimum number of color: 4
+Average time for running: 3
+Group: 3
+Minimum number of color: 4
+Average time for running: 3
+Group: 4
+Minimum number of color: 4
+Average time for running: 3
+---------------
+Number of Vertices: 100
+Group: 1
+Minimum number of color: 5
+Average time for running: 4
+Group: 2
+Minimum number of color: 4
+Average time for running: 4
+Group: 3
+Minimum number of color: 4
+Average time for running: 3
+Group: 4
+Minimum number of color: 3
+Average time for running: 4
+---------------
+Number of Vertices: 110
+Group: 1
+Minimum number of color: 5
+Average time for running: 5
+Group: 2
+Minimum number of color: 4
+Average time for running: 5
+Group: 3
+Minimum number of color: 4
+Average time for running: 5
+Group: 4
+Minimum number of color: 3
+Average time for running: 5
+---------------
+Number of Vertices: 120
+Group: 1
+Minimum number of color: 4
+Average time for running: 6
+Group: 2
+Minimum number of color: 4
+Average time for running: 6
+Group: 3
+Minimum number of color: 3
+Average time for running: 6
+Group: 4
+Minimum number of color: 3
+Average time for running: 7
+---------------
+Number of Vertices: 130
+Group: 1
+Minimum number of color: 5
+Average time for running: 8
+Group: 2
+Minimum number of color: 4
+Average time for running: 7
+Group: 3
+Minimum number of color: 3
+Average time for running: 7
+Group: 4
+Minimum number of color: 3
+Average time for running: 8
+---------------
+Number of Vertices: 140
+Group: 1
+Minimum number of color: 5
+Average time for running: 9
+Group: 2
+Minimum number of color: 5
+Average time for running: 9
+Group: 3
+Minimum number of color: 4
+Average time for running: 9
+Group: 4
+Minimum number of color: 4
+Average time for running: 10
+---------------
+Number of Vertices: 150
+Group: 1
+Minimum number of color: 5
+Average time for running: 11
+Group: 2
+Minimum number of color: 5
+Average time for running: 11
+Group: 3
+Minimum number of color: 3
+Average time for running: 11
+Group: 4
+Minimum number of color: 2
+Average time for running: 13
+---------------
+Number of Vertices: 160
+Group: 1
+Minimum number of color: 5
+Average time for running: 13
+Group: 2
+Minimum number of color: 5
+Average time for running: 13
+Group: 3
+Minimum number of color: 5
+Average time for running: 13
+Group: 4
+Minimum number of color: 3
+Average time for running: 14
+---------------
+Number of Vertices: 170
+Group: 1
+Minimum number of color: 5
+Average time for running: 16
+Group: 2
+Minimum number of color: 5
+Average time for running: 15
+Group: 3
+Minimum number of color: 4
+Average time for running: 17
+Group: 4
+Minimum number of color: 4
+Average time for running: 17
+---------------
+Number of Vertices: 180
+Group: 1
+Minimum number of color: 6
+Average time for running: 19
+Group: 2
+Minimum number of color: 5
+Average time for running: 17
+Group: 3
+Minimum number of color: 4
+Average time for running: 18
+Group: 4
+Minimum number of color: 4
+Average time for running: 19
+---------------
+Number of Vertices: 10
+Group: 1
+Minimum number of color: 2
+Average time for running: 1
+Group: 2
+Minimum number of color: 2
+Average time for running: 0
+Group: 3
+Minimum number of color: 2
+Average time for running: 0
+Group: 4
+Minimum number of color: 2
+Average time for running: 0
+---------------
+Number of Vertices: 20
+Group: 1
+Minimum number of color: 3
+Average time for running: 0
+Group: 2
+Minimum number of color: 2
+Average time for running: 0
+Group: 3
+Minimum number of color: 2
+Average time for running: 0
+Group: 4
+Minimum number of color: 2
+Average time for running: 0
+---------------
+Number of Vertices: 30
+Group: 1
+Minimum number of color: 3
+Average time for running: 0
+Group: 2
+Minimum number of color: 3
+Average time for running: 0
+Group: 3
+Minimum number of color: 2
+Average time for running: 0
+Group: 4
+Minimum number of color: 3
+Average time for running: 0
+---------------
+Number of Vertices: 40
+Group: 1
+Minimum number of color: 4
+Average time for running: 1
+Group: 2
+Minimum number of color: 3
+Average time for running: 1
+Group: 3
+Minimum number of color: 3
+Average time for running: 1
+Group: 4
+Minimum number of color: 2
+Average time for running: 0
+---------------
+Number of Vertices: 50
+Group: 1
+Minimum number of color: 4
+Average time for running: 1
+Group: 2
+Minimum number of color: 3
+Average time for running: 1
+Group: 3
+Minimum number of color: 3
+Average time for running: 1
+Group: 4
+Minimum number of color: 3
+Average time for running: 1
+---------------
+Number of Vertices: 60
+Group: 1
+Minimum number of color: 4
+Average time for running: 1
+Group: 2
+Minimum number of color: 3
+Average time for running: 1
+Group: 3
+Minimum number of color: 3
+Average time for running: 1
+Group: 4
+Minimum number of color: 3
+Average time for running: 1
+---------------
+Number of Vertices: 70
+Group: 1
+Minimum number of color: 4
+Average time for running: 2
+Group: 2
+Minimum number of color: 4
+Average time for running: 2
+Group: 3
+Minimum number of color: 4
+Average time for running: 1
+Group: 4
+Minimum number of color: 3
+Average time for running: 1
+---------------
+Number of Vertices: 80
+Group: 1
+Minimum number of color: 4
+Average time for running: 2
+Group: 2
+Minimum number of color: 3
+Average time for running: 2
+Group: 3
+Minimum number of color: 3
+Average time for running: 2
+Group: 4
+Minimum number of color: 3
+Average time for running: 2
+---------------
+Number of Vertices: 90
+Group: 1
+Minimum number of color: 5
+Average time for running: 3
+Group: 2
+Minimum number of color: 4
+Average time for running: 2
+Group: 3
+Minimum number of color: 3
+Average time for running: 3
+Group: 4
+Minimum number of color: 4
+Average time for running: 3
+---------------
+Number of Vertices: 100
+Group: 1
+Minimum number of color: 5
+Average time for running: 4
+Group: 2
+Minimum number of color: 5
+Average time for running: 3
+Group: 3
+Minimum number of color: 3
+Average time for running: 3
+Group: 4
+Minimum number of color: 3
+Average time for running: 4
+---------------
+Number of Vertices: 110
+Group: 1
+Minimum number of color: 4
+Average time for running: 5
+Group: 2
+Minimum number of color: 4
+Average time for running: 5
+Group: 3
+Minimum number of color: 4
+Average time for running: 5
+Group: 4
+Minimum number of color: 3
+Average time for running: 6
+---------------
+Number of Vertices: 120
+Group: 1
+Minimum number of color: 5
+Average time for running: 7
+Group: 2
+Minimum number of color: 4
+Average time for running: 6
+Group: 3
+Minimum number of color: 4
+Average time for running: 6
+Group: 4
+Minimum number of color: 4
+Average time for running: 6
+---------------
+Number of Vertices: 130
+Group: 1
+Minimum number of color: 5
+Average time for running: 8
+Group: 2
+Minimum number of color: 4
+Average time for running: 7
+Group: 3
+Minimum number of color: 3
+Average time for running: 7
+Group: 4
+Minimum number of color: 4
+Average time for running: 8
+---------------
+Number of Vertices: 140
+Group: 1
+Minimum number of color: 5
+Average time for running: 9
+Group: 2
+Minimum number of color: 4
+Average time for running: 9
+Group: 3
+Minimum number of color: 4
+Average time for running: 9
+Group: 4
+Minimum number of color: 4
+Average time for running: 9
+---------------
+Number of Vertices: 150
+Group: 1
+Minimum number of color: 5
+Average time for running: 11
+Group: 2
+Minimum number of color: 5
+Average time for running: 11
+Group: 3
+Minimum number of color: 4
+Average time for running: 10
+Group: 4
+Minimum number of color: 3
+Average time for running: 12
+---------------
+Number of Vertices: 160
+Group: 1
+Minimum number of color: 5
+Average time for running: 14
+Group: 2
+Minimum number of color: 5
+Average time for running: 13
+Group: 3
+Minimum number of color: 5
+Average time for running: 13
+Group: 4
+Minimum number of color: 4
+Average time for running: 14
+---------------
+Number of Vertices: 170
+Group: 1
+Minimum number of color: 6
+Average time for running: 16
+Group: 2
+Minimum number of color: 5
+Average time for running: 14
+Group: 3
+Minimum number of color: 4
+Average time for running: 15
+Group: 4
+Minimum number of color: 4
+Average time for running: 17
+---------------
+Number of Vertices: 180
+Group: 1
+Minimum number of color: 5
+Average time for running: 19
+Group: 2
+Minimum number of color: 4
+Average time for running: 17
+Group: 3
+Minimum number of color: 4
+Average time for running: 18
+Group: 4
+Minimum number of color: 4
+Average time for running: 19
+---------------
+Number of Vertices: 190
+Group: 1
+Minimum number of color: 6
+Average time for running: 21
+Group: 2
+Minimum number of color: 5
+Average time for running: 21
+Group: 3
+Minimum number of color: 4
+Average time for running: 21
+Group: 4
+Minimum number of color: 4
+Average time for running: 22
+---------------
+Number of Vertices: 200
+Group: 1
+Minimum number of color: 5
+Average time for running: 24
+Group: 2
+Minimum number of color: 5
+Average time for running: 23
+Group: 3
+Minimum number of color: 4
+Average time for running: 24
+Group: 4
+Minimum number of color: 4
+Average time for running: 26
+---------------
+Number of Vertices: 210
+Group: 1
+Minimum number of color: 6
+Average time for running: 27
+Group: 2
+Minimum number of color: 5
+Average time for running: 26
+Group: 3
+Minimum number of color: 4
+Average time for running: 27
+Group: 4
+Minimum number of color: 3
+Average time for running: 30
+---------------
+Number of Vertices: 220
+Group: 1
+Minimum number of color: 6
+Average time for running: 31
+Group: 2
+Minimum number of color: 5
+Average time for running: 30
+Group: 3
+Minimum number of color: 5
+Average time for running: 31
+Group: 4
+Minimum number of color: 4
+Average time for running: 35
+---------------
+Number of Vertices: 230
+Group: 1
+Minimum number of color: 6
+Average time for running: 41
+Group: 2
+Minimum number of color: 4
+Average time for running: 48
+Group: 3
+Minimum number of color: 4
+Average time for running: 45
+Group: 4
+Minimum number of color: 4
+Average time for running: 58
+---------------
+Number of Vertices: 240
+Group: 1
+Minimum number of color: 6
+Average time for running: 44
+Group: 2
+Minimum number of color: 5
+Average time for running: 43
+Group: 3
+Minimum number of color: 5
+Average time for running: 45
+Group: 4
+Minimum number of color: 4
+Average time for running: 48
+---------------
+Number of Vertices: 250
+Group: 1
+Minimum number of color: 6
+Average time for running: 43
+Group: 2
+Minimum number of color: 5
+Average time for running: 43
+Group: 3
+Minimum number of color: 4
+Average time for running: 45
+Group: 4
+Minimum number of color: 4
+Average time for running: 51
+---------------
+Number of Vertices: 260
+Group: 1
+Minimum number of color: 7
+Average time for running: 48
+Group: 2
+Minimum number of color: 5
+Average time for running: 48
+Group: 3
+Minimum number of color: 5
+Average time for running: 54
+Group: 4
+Minimum number of color: 4
+Average time for running: 56
+---------------
+Number of Vertices: 270
+Group: 1
+Minimum number of color: 7
+Average time for running: 56
+Group: 2
+Minimum number of color: 6
+Average time for running: 54
+Group: 3
+Minimum number of color: 5
+Average time for running: 56
+Group: 4
+Minimum number of color: 4
+Average time for running: 61
+---------------
+Number of Vertices: 280
+Group: 1
+Minimum number of color: 6
+Average time for running: 60
+Group: 2
+Minimum number of color: 6
+Average time for running: 61
+Group: 3
+Minimum number of color: 5
+Average time for running: 63
+Group: 4
+Minimum number of color: 4
+Average time for running: 69
+---------------
+Number of Vertices: 290
+Group: 1
+Minimum number of color: 6
+Average time for running: 66
+Group: 2
+Minimum number of color: 6
+Average time for running: 67
+Group: 3
+Minimum number of color: 4
+Average time for running: 69
+Group: 4
+Minimum number of color: 5
+Average time for running: 76
+---------------
+Number of Vertices: 300
+Group: 1
+Minimum number of color: 6
+Average time for running: 88
+Group: 2
+Minimum number of color: 6
+Average time for running: 102
+Group: 3
+Minimum number of color: 5
+Average time for running: 87
+Group: 4
+Minimum number of color: 5
+Average time for running: 98
+---------------
+Number of Vertices: 310
+Group: 1
+Minimum number of color: 6
+Average time for running: 87
+Group: 2
+Minimum number of color: 6
+Average time for running: 85
+Group: 3
+Minimum number of color: 5
+Average time for running: 99
+Group: 4
+Minimum number of color: 4
+Average time for running: 100
+---------------
+Number of Vertices: 320
+Group: 1
+Minimum number of color: 7
+Average time for running: 91
+Group: 2
+Minimum number of color: 6
+Average time for running: 92
+Group: 3
+Minimum number of color: 5
+Average time for running: 95
+Group: 4
+Minimum number of color: 4
+Average time for running: 110
+---------------
+Number of Vertices: 330
+Group: 1
+Minimum number of color: 7
+Average time for running: 104
+Group: 2
+Minimum number of color: 6
+Average time for running: 99
+Group: 3
+Minimum number of color: 5
+Average time for running: 103
+Group: 4
+Minimum number of color: 4
+Average time for running: 114
+---------------
+Number of Vertices: 340
+Group: 1
+Minimum number of color: 7
+Average time for running: 107
+Group: 2
+Minimum number of color: 6
+Average time for running: 112
+Group: 3
+Minimum number of color: 5
+Average time for running: 114
+Group: 4
+Minimum number of color: 4
+Average time for running: 122
+---------------
+Number of Vertices: 350
+Group: 1
+Minimum number of color: 6
+Average time for running: 119
+Group: 2
+Minimum number of color: 6
+Average time for running: 118
+Group: 3
+Minimum number of color: 5
+Average time for running: 124
+Group: 4
+Minimum number of color: 4
+Average time for running: 135
+---------------
+Number of Vertices: 360
+Group: 1
+Minimum number of color: 7
+Average time for running: 128
+Group: 2
+Minimum number of color: 6
+Average time for running: 129
+Group: 3
+Minimum number of color: 5
+Average time for running: 135
+Group: 4
+Minimum number of color: 4
+Average time for running: 147
+---------------
+Number of Vertices: 370
+Group: 1
+Minimum number of color: 7
+Average time for running: 142
+Group: 2
+Minimum number of color: 6
+Average time for running: 146
+Group: 3
+Minimum number of color: 5
+Average time for running: 148
+Group: 4
+Minimum number of color: 5
+Average time for running: 159
+---------------
+Number of Vertices: 380
+Group: 1
+Minimum number of color: 7
+Average time for running: 152
+Group: 2
+Minimum number of color: 6
+Average time for running: 151
+Group: 3
+Minimum number of color: 5
+Average time for running: 158
+Group: 4
+Minimum number of color: 4
+Average time for running: 234
+---------------
+Number of Vertices: 390
+Group: 1
+Minimum number of color: 7
+Average time for running: 275
+Group: 2
+Minimum number of color: 6
+Average time for running: 187
+Group: 3
+Minimum number of color: 5
+Average time for running: 172
+Group: 4
+Minimum number of color: 4
+Average time for running: 186
+---------------
+Number of Vertices: 400
+Group: 1
+Minimum number of color: 6
+Average time for running: 178
+Group: 2
+Minimum number of color: 5
+Average time for running: 185
+Group: 3
+Minimum number of color: 5
+Average time for running: 191
+Group: 4
+Minimum number of color: 5
+Average time for running: 204
+---------------
+Number of Vertices: 410
+Group: 1
+Minimum number of color: 6
+Average time for running: 187
+Group: 2
+Minimum number of color: 6
+Average time for running: 188
+Group: 3
+Minimum number of color: 5
+Average time for running: 199
+Group: 4
+Minimum number of color: 4
+Average time for running: 213
+---------------
+Number of Vertices: 420
+Group: 1
+Minimum number of color: 7
+Average time for running: 197
+Group: 2
+Minimum number of color: 6
+Average time for running: 199
+Group: 3
+Minimum number of color: 5
+Average time for running: 210
+Group: 4
+Minimum number of color: 4
+Average time for running: 232
+---------------
+Number of Vertices: 430
+Group: 1
+Minimum number of color: 7
+Average time for running: 212
+Group: 2
+Minimum number of color: 6
+Average time for running: 216
+Group: 3
+Minimum number of color: 4
+Average time for running: 224
+Group: 4
+Minimum number of color: 4
+Average time for running: 246
+---------------
+Number of Vertices: 440
+Group: 1
+Minimum number of color: 7
+Average time for running: 230
+Group: 2
+Minimum number of color: 5
+Average time for running: 229
+Group: 3
+Minimum number of color: 5
+Average time for running: 242
+Group: 4
+Minimum number of color: 5
+Average time for running: 265
+---------------
+Number of Vertices: 450
+Group: 1
+Minimum number of color: 8
+Average time for running: 245
+Group: 2
+Minimum number of color: 5
+Average time for running: 252
+Group: 3
+Minimum number of color: 5
+Average time for running: 259
+Group: 4
+Minimum number of color: 4
+Average time for running: 287
+---------------
+Number of Vertices: 460
+Group: 1
+Minimum number of color: 7
+Average time for running: 263
+Group: 2
+Minimum number of color: 5
+Average time for running: 269
+Group: 3
+Minimum number of color: 5
+Average time for running: 279
+Group: 4
+Minimum number of color: 4
+Average time for running: 307
+---------------
+Number of Vertices: 470
+Group: 1
+Minimum number of color: 6
+Average time for running: 284
+Group: 2
+Minimum number of color: 6
+Average time for running: 285
+Group: 3
+Minimum number of color: 6
+Average time for running: 298
+Group: 4
+Minimum number of color: 4
+Average time for running: 325
+---------------
+Number of Vertices: 480
+Group: 1
+Minimum number of color: 7
+Average time for running: 295
+Group: 2
+Minimum number of color: 6
+Average time for running: 301
+Group: 3
+Minimum number of color: 5
+Average time for running: 316
+Group: 4
+Minimum number of color: 4
+Average time for running: 340
+---------------
+Number of Vertices: 490
+Group: 1
+Minimum number of color: 8
+Average time for running: 318
+Group: 2
+Minimum number of color: 6
+Average time for running: 324
+Group: 3
+Minimum number of color: 4
+Average time for running: 337
+Group: 4
+Minimum number of color: 5
+Average time for running: 362
+---------------
+Number of Vertices: 500
+Group: 1
+Minimum number of color: 7
+Average time for running: 335
+Group: 2
+Minimum number of color: 6
+Average time for running: 341
+Group: 3
+Minimum number of color: 6
+Average time for running: 636
+Group: 4
+Minimum number of color: 5
+Average time for running: 388
+---------------
+Number of Vertices: 510
+Group: 1
+Minimum number of color: 7
+Average time for running: 381
+Group: 2
+Minimum number of color: 5
+Average time for running: 365
+Group: 3
+Minimum number of color: 5
+Average time for running: 377
+Group: 4
+Minimum number of color: 5
+Average time for running: 401
+---------------
+Number of Vertices: 520
+Group: 1
+Minimum number of color: 8
+Average time for running: 370
+Group: 2
+Minimum number of color: 6
+Average time for running: 380
+Group: 3
+Minimum number of color: 5
+Average time for running: 401
+Group: 4
+Minimum number of color: 4
+Average time for running: 431
+---------------
+Number of Vertices: 530
+Group: 1
+Minimum number of color: 8
+Average time for running: 397
+Group: 2
+Minimum number of color: 6
+Average time for running: 401
+Group: 3
+Minimum number of color: 6
+Average time for running: 422
+Group: 4
+Minimum number of color: 5
+Average time for running: 467
+---------------
+Number of Vertices: 540
+Group: 1
+Minimum number of color: 8
+Average time for running: 423
+Group: 2
+Minimum number of color: 6
+Average time for running: 427
+Group: 3
+Minimum number of color: 5
+Average time for running: 437
+Group: 4
+Minimum number of color: 4
+Average time for running: 480
+---------------
+Number of Vertices: 550
+Group: 1
+Minimum number of color: 8
+Average time for running: 441
+Group: 2
+Minimum number of color: 6
+Average time for running: 452
+Group: 3
+Minimum number of color: 5
+Average time for running: 473
+Group: 4
+Minimum number of color: 4
+Average time for running: 518
+---------------
+Number of Vertices: 560
+Group: 1
+Minimum number of color: 7
+Average time for running: 465
+Group: 2
+Minimum number of color: 6
+Average time for running: 471
+Group: 3
+Minimum number of color: 6
+Average time for running: 499
+Group: 4
+Minimum number of color: 4
+Average time for running: 556
+---------------
+Number of Vertices: 10
+Group: 1
+Minimum number of color: 2
+Average time for running: 1
+Group: 2
+Minimum number of color: 2
+Average time for running: 0
+Group: 3
+Minimum number of color: 2
+Average time for running: 0
+Group: 4
+Minimum number of color: 2
+Average time for running: 0
+---------------
+Number of Vertices: 20
+Group: 1
+Minimum number of color: 3
+Average time for running: 0
+Group: 2
+Minimum number of color: 3
+Average time for running: 0
+Group: 3
+Minimum number of color: 2
+Average time for running: 0
+Group: 4
+Minimum number of color: 2
+Average time for running: 0
+---------------
+Number of Vertices: 30
+Group: 1
+Minimum number of color: 3
+Average time for running: 0
+Group: 2
+Minimum number of color: 2
+Average time for running: 0
+Group: 3
+Minimum number of color: 2
+Average time for running: 0
+Group: 4
+Minimum number of color: 2
+Average time for running: 0
+---------------
+Number of Vertices: 40
+Group: 1
+Minimum number of color: 3
+Average time for running: 1
+Group: 2
+Minimum number of color: 3
+Average time for running: 1
+Group: 3
+Minimum number of color: 3
+Average time for running: 1
+Group: 4
+Minimum number of color: 3
+Average time for running: 1
+---------------
+Number of Vertices: 50
+Group: 1
+Minimum number of color: 4
+Average time for running: 1
+Group: 2
+Minimum number of color: 4
+Average time for running: 1
+Group: 3
+Minimum number of color: 3
+Average time for running: 1
+Group: 4
+Minimum number of color: 2
+Average time for running: 1
+---------------
+Number of Vertices: 60
+Group: 1
+Minimum number of color: 4
+Average time for running: 1
+Group: 2
+Minimum number of color: 4
+Average time for running: 1
+Group: 3
+Minimum number of color: 3
+Average time for running: 1
+Group: 4
+Minimum number of color: 2
+Average time for running: 1
+---------------
+Number of Vertices: 70
+Group: 1
+Minimum number of color: 4
+Average time for running: 2
+Group: 2
+Minimum number of color: 4
+Average time for running: 1
+Group: 3
+Minimum number of color: 3
+Average time for running: 1
+Group: 4
+Minimum number of color: 3
+Average time for running: 2
+---------------
+Number of Vertices: 80
+Group: 1
+Minimum number of color: 4
+Average time for running: 2
+Group: 2
+Minimum number of color: 4
+Average time for running: 2
+Group: 3
+Minimum number of color: 4
+Average time for running: 2
+Group: 4
+Minimum number of color: 3
+Average time for running: 2
+---------------
+Number of Vertices: 90
+Group: 1
+Minimum number of color: 5
+Average time for running: 3
+Group: 2
+Minimum number of color: 4
+Average time for running: 3
+Group: 3
+Minimum number of color: 4
+Average time for running: 3
+Group: 4
+Minimum number of color: 2
+Average time for running: 3
+---------------
+Number of Vertices: 100
+Group: 1
+Minimum number of color: 5
+Average time for running: 4
+Group: 2
+Minimum number of color: 4
+Average time for running: 4
+Group: 3
+Minimum number of color: 4
+Average time for running: 4
+Group: 4
+Minimum number of color: 3
+Average time for running: 4
+---------------
+Number of Vertices: 110
+Group: 1
+Minimum number of color: 5
+Average time for running: 5
+Group: 2
+Minimum number of color: 4
+Average time for running: 5
+Group: 3
+Minimum number of color: 4
+Average time for running: 5
+Group: 4
+Minimum number of color: 4
+Average time for running: 5
+---------------
+Number of Vertices: 120
+Group: 1
+Minimum number of color: 5
+Average time for running: 6
+Group: 2
+Minimum number of color: 4
+Average time for running: 6
+Group: 3
+Minimum number of color: 4
+Average time for running: 6
+Group: 4
+Minimum number of color: 4
+Average time for running: 6
+---------------
+Number of Vertices: 130
+Group: 1
+Minimum number of color: 5
+Average time for running: 8
+Group: 2
+Minimum number of color: 5
+Average time for running: 8
+Group: 3
+Minimum number of color: 4
+Average time for running: 7
+Group: 4
+Minimum number of color: 4
+Average time for running: 8
+---------------
+Number of Vertices: 140
+Group: 1
+Minimum number of color: 5
+Average time for running: 10
+Group: 2
+Minimum number of color: 4
+Average time for running: 9
+Group: 3
+Minimum number of color: 4
+Average time for running: 9
+Group: 4
+Minimum number of color: 4
+Average time for running: 10
+---------------
+Number of Vertices: 150
+Group: 1
+Minimum number of color: 5
+Average time for running: 11
+Group: 2
+Minimum number of color: 5
+Average time for running: 11
+Group: 3
+Minimum number of color: 4
+Average time for running: 11
+Group: 4
+Minimum number of color: 4
+Average time for running: 12
+---------------
+Number of Vertices: 160
+Group: 1
+Minimum number of color: 5
+Average time for running: 14
+Group: 2
+Minimum number of color: 5
+Average time for running: 13
+Group: 3
+Minimum number of color: 4
+Average time for running: 13
+Group: 4
+Minimum number of color: 4
+Average time for running: 14
+---------------
+Number of Vertices: 170
+Group: 1
+Minimum number of color: 6
+Average time for running: 16
+Group: 2
+Minimum number of color: 5
+Average time for running: 15
+Group: 3
+Minimum number of color: 4
+Average time for running: 15
+Group: 4
+Minimum number of color: 4
+Average time for running: 17
+---------------
+Number of Vertices: 180
+Group: 1
+Minimum number of color: 5
+Average time for running: 19
+Group: 2
+Minimum number of color: 4
+Average time for running: 18
+Group: 3
+Minimum number of color: 4
+Average time for running: 22
+Group: 4
+Minimum number of color: 4
+Average time for running: 22
+---------------
+Number of Vertices: 190
+Group: 1
+Minimum number of color: 6
+Average time for running: 24
+Group: 2
+Minimum number of color: 5
+Average time for running: 24
+Group: 3
+Minimum number of color: 4
+Average time for running: 22
+Group: 4
+Minimum number of color: 4
+Average time for running: 25
+---------------
+Number of Vertices: 200
+Group: 1
+Minimum number of color: 6
+Average time for running: 27
+Group: 2
+Minimum number of color: 4
+Average time for running: 26
+Group: 3
+Minimum number of color: 3
+Average time for running: 29
+Group: 4
+Minimum number of color: 4
+Average time for running: 32
+---------------
+Number of Vertices: 210
+Group: 1
+Minimum number of color: 6
+Average time for running: 29
+Group: 2
+Minimum number of color: 5
+Average time for running: 30
+Group: 3
+Minimum number of color: 3
+Average time for running: 29
+Group: 4
+Minimum number of color: 3
+Average time for running: 31
+---------------
+Number of Vertices: 220
+Group: 1
+Minimum number of color: 6
+Average time for running: 32
+Group: 2
+Minimum number of color: 5
+Average time for running: 31
+Group: 3
+Minimum number of color: 5
+Average time for running: 33
+Group: 4
+Minimum number of color: 4
+Average time for running: 35
+---------------
+Number of Vertices: 230
+Group: 1
+Minimum number of color: 6
+Average time for running: 36
+Group: 2
+Minimum number of color: 5
+Average time for running: 35
+Group: 3
+Minimum number of color: 4
+Average time for running: 37
+Group: 4
+Minimum number of color: 4
+Average time for running: 41
+---------------
+Number of Vertices: 240
+Group: 1
+Minimum number of color: 6
+Average time for running: 40
+Group: 2
+Minimum number of color: 5
+Average time for running: 40
+Group: 3
+Minimum number of color: 4
+Average time for running: 42
+Group: 4
+Minimum number of color: 4
+Average time for running: 46
+---------------
+Number of Vertices: 250
+Group: 1
+Minimum number of color: 6
+Average time for running: 45
+Group: 2
+Minimum number of color: 4
+Average time for running: 44
+Group: 3
+Minimum number of color: 5
+Average time for running: 47
+Group: 4
+Minimum number of color: 3
+Average time for running: 52
+---------------
+Number of Vertices: 260
+Group: 1
+Minimum number of color: 6
+Average time for running: 51
+Group: 2
+Minimum number of color: 6
+Average time for running: 50
+Group: 3
+Minimum number of color: 4
+Average time for running: 52
+Group: 4
+Minimum number of color: 4
+Average time for running: 59
+---------------
+Number of Vertices: 270
+Group: 1
+Minimum number of color: 7
+Average time for running: 56
+Group: 2
+Minimum number of color: 6
+Average time for running: 56
+Group: 3
+Minimum number of color: 4
+Average time for running: 59
+Group: 4
+Minimum number of color: 5
+Average time for running: 66
+---------------
+Number of Vertices: 280
+Group: 1
+Minimum number of color: 6
+Average time for running: 61
+Group: 2
+Minimum number of color: 5
+Average time for running: 62
+Group: 3
+Minimum number of color: 5
+Average time for running: 66
+Group: 4
+Minimum number of color: 4
+Average time for running: 72
+---------------
+Number of Vertices: 290
+Group: 1
+Minimum number of color: 7
+Average time for running: 68
+Group: 2
+Minimum number of color: 4
+Average time for running: 69
+Group: 3
+Minimum number of color: 5
+Average time for running: 72
+Group: 4
+Minimum number of color: 4
+Average time for running: 80
+---------------
+Number of Vertices: 300
+Group: 1
+Minimum number of color: 6
+Average time for running: 74
+Group: 2
+Minimum number of color: 5
+Average time for running: 75
+Group: 3
+Minimum number of color: 4
+Average time for running: 82
+Group: 4
+Minimum number of color: 4
+Average time for running: 89
+---------------
+Number of Vertices: 310
+Group: 1
+Minimum number of color: 6
+Average time for running: 83
+Group: 2
+Minimum number of color: 6
+Average time for running: 82
+Group: 3
+Minimum number of color: 5
+Average time for running: 89
+Group: 4
+Minimum number of color: 4
+Average time for running: 96
+---------------
+Number of Vertices: 320
+Group: 1
+Minimum number of color: 7
+Average time for running: 90
+Group: 2
+Minimum number of color: 5
+Average time for running: 92
+Group: 3
+Minimum number of color: 5
+Average time for running: 97
+Group: 4
+Minimum number of color: 4
+Average time for running: 106
+---------------
+Number of Vertices: 330
+Group: 1
+Minimum number of color: 6
+Average time for running: 98
+Group: 2
+Minimum number of color: 5
+Average time for running: 100
+Group: 3
+Minimum number of color: 5
+Average time for running: 104
+Group: 4
+Minimum number of color: 4
+Average time for running: 125
+---------------
+Number of Vertices: 340
+Group: 1
+Minimum number of color: 7
+Average time for running: 106
+Group: 2
+Minimum number of color: 5
+Average time for running: 108
+Group: 3
+Minimum number of color: 4
+Average time for running: 116
+Group: 4
+Minimum number of color: 5
+Average time for running: 125
+---------------
+Number of Vertices: 350
+Group: 1
+Minimum number of color: 7
+Average time for running: 115
+Group: 2
+Minimum number of color: 6
+Average time for running: 117
+Group: 3
+Minimum number of color: 5
+Average time for running: 124
+Group: 4
+Minimum number of color: 4
+Average time for running: 137
+---------------
+Number of Vertices: 360
+Group: 1
+Minimum number of color: 6
+Average time for running: 124
+Group: 2
+Minimum number of color: 6
+Average time for running: 127
+Group: 3
+Minimum number of color: 5
+Average time for running: 135
+Group: 4
+Minimum number of color: 4
+Average time for running: 150
+---------------
+Number of Vertices: 370
+Group: 1
+Minimum number of color: 7
+Average time for running: 135
+Group: 2
+Minimum number of color: 6
+Average time for running: 138
+Group: 3
+Minimum number of color: 5
+Average time for running: 145
+Group: 4
+Minimum number of color: 4
+Average time for running: 163
+---------------
+Number of Vertices: 380
+Group: 1
+Minimum number of color: 7
+Average time for running: 147
+Group: 2
+Minimum number of color: 5
+Average time for running: 149
+Group: 3
+Minimum number of color: 5
+Average time for running: 159
+Group: 4
+Minimum number of color: 4
+Average time for running: 178
+---------------
+Number of Vertices: 390
+Group: 1
+Minimum number of color: 7
+Average time for running: 157
+Group: 2
+Minimum number of color: 5
+Average time for running: 164
+Group: 3
+Minimum number of color: 5
+Average time for running: 173
+Group: 4
+Minimum number of color: 4
+Average time for running: 221
+---------------
+Number of Vertices: 400
+Group: 1
+Minimum number of color: 7
+Average time for running: 186
+Group: 2
+Minimum number of color: 5
+Average time for running: 201
+Group: 3
+Minimum number of color: 5
+Average time for running: 194
+Group: 4
+Minimum number of color: 4
+Average time for running: 210
+---------------
+Number of Vertices: 410
+Group: 1
+Minimum number of color: 7
+Average time for running: 190
+Group: 2
+Minimum number of color: 6
+Average time for running: 197
+Group: 3
+Minimum number of color: 5
+Average time for running: 206
+Group: 4
+Minimum number of color: 5
+Average time for running: 232
+---------------
+Number of Vertices: 420
+Group: 1
+Minimum number of color: 7
+Average time for running: 203
+Group: 2
+Minimum number of color: 5
+Average time for running: 222
+Group: 3
+Minimum number of color: 5
+Average time for running: 217
+Group: 4
+Minimum number of color: 4
+Average time for running: 241
+---------------
+Number of Vertices: 430
+Group: 1
+Minimum number of color: 7
+Average time for running: 214
+Group: 2
+Minimum number of color: 5
+Average time for running: 218
+Group: 3
+Minimum number of color: 5
+Average time for running: 236
+Group: 4
+Minimum number of color: 4
+Average time for running: 254
+---------------
+Number of Vertices: 440
+Group: 1
+Minimum number of color: 8
+Average time for running: 230
+Group: 2
+Minimum number of color: 5
+Average time for running: 240
+Group: 3
+Minimum number of color: 5
+Average time for running: 253
+Group: 4
+Minimum number of color: 5
+Average time for running: 277
+---------------
+Number of Vertices: 450
+Group: 1
+Minimum number of color: 7
+Average time for running: 245
+Group: 2
+Minimum number of color: 6
+Average time for running: 250
+Group: 3
+Minimum number of color: 5
+Average time for running: 284
+Group: 4
+Minimum number of color: 5
+Average time for running: 315
+---------------
+Number of Vertices: 460
+Group: 1
+Minimum number of color: 8
+Average time for running: 281
+Group: 2
+Minimum number of color: 6
+Average time for running: 287
+Group: 3
+Minimum number of color: 5
+Average time for running: 289
+Group: 4
+Minimum number of color: 5
+Average time for running: 313
+---------------
+Number of Vertices: 470
+Group: 1
+Minimum number of color: 7
+Average time for running: 296
+Group: 2
+Minimum number of color: 7
+Average time for running: 309
+Group: 3
+Minimum number of color: 4
+Average time for running: 326
+Group: 4
+Minimum number of color: 4
+Average time for running: 341
+---------------
+Number of Vertices: 480
+Group: 1
+Minimum number of color: 7
+Average time for running: 302
+Group: 2
+Minimum number of color: 6
+Average time for running: 324
+Group: 3
+Minimum number of color: 5
+Average time for running: 340
+Group: 4
+Minimum number of color: 4
+Average time for running: 359
+---------------
+Number of Vertices: 490
+Group: 1
+Minimum number of color: 7
+Average time for running: 347
+Group: 2
+Minimum number of color: 6
+Average time for running: 340
+Group: 3
+Minimum number of color: 5
+Average time for running: 349
+Group: 4
+Minimum number of color: 5
+Average time for running: 392
+---------------
+Number of Vertices: 500
+Group: 1
+Minimum number of color: 7
+Average time for running: 336
+Group: 2
+Minimum number of color: 6
+Average time for running: 344
+Group: 3
+Minimum number of color: 6
+Average time for running: 374
+Group: 4
+Minimum number of color: 5
+Average time for running: 435
+---------------
+Number of Vertices: 510
+Group: 1
+Minimum number of color: 7
+Average time for running: 352
+Group: 2
+Minimum number of color: 6
+Average time for running: 363
+Group: 3
+Minimum number of color: 5
+Average time for running: 380
+Group: 4
+Minimum number of color: 5
+Average time for running: 445
+---------------
+Number of Vertices: 520
+Group: 1
+Minimum number of color: 6
+Average time for running: 377
+Group: 2
+Minimum number of color: 6
+Average time for running: 397
+Group: 3
+Minimum number of color: 5
+Average time for running: 405
+Group: 4
+Minimum number of color: 5
+Average time for running: 452
+---------------
+Number of Vertices: 530
+Group: 1
+Minimum number of color: 8
+Average time for running: 399
+Group: 2
+Minimum number of color: 6
+Average time for running: 409
+Group: 3
+Minimum number of color: 6
+Average time for running: 438
+Group: 4
+Minimum number of color: 4
+Average time for running: 482
+---------------
+Number of Vertices: 540
+Group: 1
+Minimum number of color: 8
+Average time for running: 425
+Group: 2
+Minimum number of color: 6
+Average time for running: 493
+Group: 3
+Minimum number of color: 5
+Average time for running: 503
+Group: 4
+Minimum number of color: 4
+Average time for running: 543
+---------------
+Number of Vertices: 550
+Group: 1
+Minimum number of color: 8
+Average time for running: 466
+Group: 2
+Minimum number of color: 7
+Average time for running: 464
+Group: 3
+Minimum number of color: 5
+Average time for running: 486
+Group: 4
+Minimum number of color: 5
+Average time for running: 541
+---------------
+Number of Vertices: 560
+Group: 1
+Minimum number of color: 8
+Average time for running: 466
+Group: 2
+Minimum number of color: 6
+Average time for running: 500
+Group: 3
+Minimum number of color: 5
+Average time for running: 524
+Group: 4
+Minimum number of color: 5
+Average time for running: 565
+---------------
+Number of Vertices: 570
+Group: 1
+Minimum number of color: 8
+Average time for running: 489
+Group: 2
+Minimum number of color: 7
+Average time for running: 538
+Group: 3
+Minimum number of color: 5
+Average time for running: 560
+Group: 4
+Minimum number of color: 5
+Average time for running: 596
+---------------
+Number of Vertices: 580
+Group: 1
+Minimum number of color: 8
+Average time for running: 513
+Group: 2
+Minimum number of color: 7
+Average time for running: 535
+Group: 3
+Minimum number of color: 5
+Average time for running: 556
+Group: 4
+Minimum number of color: 5
+Average time for running: 625
+---------------
+Number of Vertices: 590
+Group: 1
+Minimum number of color: 7
+Average time for running: 542
+Group: 2
+Minimum number of color: 7
+Average time for running: 556
+Group: 3
+Minimum number of color: 6
+Average time for running: 590
+Group: 4
+Minimum number of color: 5
+Average time for running: 656
+---------------
+Number of Vertices: 10
+Group: 1
+Minimum number of color: 2
+Average time for running: 2
+Group: 2
+Minimum number of color: 2
+Average time for running: 0
+Group: 3
+Minimum number of color: 2
+Average time for running: 0
+Group: 4
+Minimum number of color: 2
+Average time for running: 0
+---------------
+Number of Vertices: 20
+Group: 1
+Minimum number of color: 3
+Average time for running: 0
+Group: 2
+Minimum number of color: 3
+Average time for running: 0
+Group: 3
+Minimum number of color: 2
+Average time for running: 0
+Group: 4
+Minimum number of color: 2
+Average time for running: 0
+---------------
+Number of Vertices: 30
+Group: 1
+Minimum number of color: 3
+Average time for running: 0
+Group: 2
+Minimum number of color: 3
+Average time for running: 0
+Group: 3
+Minimum number of color: 2
+Average time for running: 0
+Group: 4
+Minimum number of color: 2
+Average time for running: 0
+---------------
+Number of Vertices: 40
+Group: 1
+Minimum number of color: 4
+Average time for running: 1
+Group: 2
+Minimum number of color: 3
+Average time for running: 1
+Group: 3
+Minimum number of color: 3
+Average time for running: 1
+Group: 4
+Minimum number of color: 3
+Average time for running: 1
+---------------
+Number of Vertices: 50
+Group: 1
+Minimum number of color: 3
+Average time for running: 1
+Group: 2
+Minimum number of color: 3
+Average time for running: 1
+Group: 3
+Minimum number of color: 3
+Average time for running: 1
+Group: 4
+Minimum number of color: 3
+Average time for running: 1
+---------------
+Number of Vertices: 60
+Group: 1
+Minimum number of color: 3
+Average time for running: 2
+Group: 2
+Minimum number of color: 4
+Average time for running: 1
+Group: 3
+Minimum number of color: 3
+Average time for running: 1
+Group: 4
+Minimum number of color: 3
+Average time for running: 1
+---------------
+Number of Vertices: 70
+Group: 1
+Minimum number of color: 4
+Average time for running: 2
+Group: 2
+Minimum number of color: 4
+Average time for running: 1
+Group: 3
+Minimum number of color: 4
+Average time for running: 1
+Group: 4
+Minimum number of color: 3
+Average time for running: 2
+---------------
+Number of Vertices: 80
+Group: 1
+Minimum number of color: 5
+Average time for running: 2
+Group: 2
+Minimum number of color: 4
+Average time for running: 2
+Group: 3
+Minimum number of color: 4
+Average time for running: 2
+Group: 4
+Minimum number of color: 3
+Average time for running: 2
+---------------
+Number of Vertices: 90
+Group: 1
+Minimum number of color: 4
+Average time for running: 3
+Group: 2
+Minimum number of color: 4
+Average time for running: 2
+Group: 3
+Minimum number of color: 4
+Average time for running: 3
+Group: 4
+Minimum number of color: 3
+Average time for running: 3
+---------------
+Number of Vertices: 100
+Group: 1
+Minimum number of color: 5
+Average time for running: 4
+Group: 2
+Minimum number of color: 4
+Average time for running: 4
+Group: 3
+Minimum number of color: 4
+Average time for running: 4
+Group: 4
+Minimum number of color: 3
+Average time for running: 4
+---------------
+Number of Vertices: 110
+Group: 1
+Minimum number of color: 5
+Average time for running: 5
+Group: 2
+Minimum number of color: 4
+Average time for running: 5
+Group: 3
+Minimum number of color: 4
+Average time for running: 5
+Group: 4
+Minimum number of color: 3
+Average time for running: 5
+---------------
+Number of Vertices: 120
+Group: 1
+Minimum number of color: 5
+Average time for running: 6
+Group: 2
+Minimum number of color: 4
+Average time for running: 6
+Group: 3
+Minimum number of color: 3
+Average time for running: 6
+Group: 4
+Minimum number of color: 4
+Average time for running: 6
+---------------
+Number of Vertices: 130
+Group: 1
+Minimum number of color: 5
+Average time for running: 8
+Group: 2
+Minimum number of color: 5
+Average time for running: 7
+Group: 3
+Minimum number of color: 4
+Average time for running: 7
+Group: 4
+Minimum number of color: 4
+Average time for running: 8
+---------------
+Number of Vertices: 140
+Group: 1
+Minimum number of color: 5
+Average time for running: 9
+Group: 2
+Minimum number of color: 4
+Average time for running: 9
+Group: 3
+Minimum number of color: 4
+Average time for running: 9
+Group: 4
+Minimum number of color: 3
+Average time for running: 10
+---------------
+Number of Vertices: 150
+Group: 1
+Minimum number of color: 6
+Average time for running: 11
+Group: 2
+Minimum number of color: 5
+Average time for running: 11
+Group: 3
+Minimum number of color: 4
+Average time for running: 11
+Group: 4
+Minimum number of color: 3
+Average time for running: 12
+---------------
+Number of Vertices: 160
+Group: 1
+Minimum number of color: 5
+Average time for running: 13
+Group: 2
+Minimum number of color: 5
+Average time for running: 12
+Group: 3
+Minimum number of color: 4
+Average time for running: 13
+Group: 4
+Minimum number of color: 4
+Average time for running: 14
+---------------
+Number of Vertices: 170
+Group: 1
+Minimum number of color: 6
+Average time for running: 16
+Group: 2
+Minimum number of color: 5
+Average time for running: 15
+Group: 3
+Minimum number of color: 4
+Average time for running: 15
+Group: 4
+Minimum number of color: 4
+Average time for running: 17
+---------------
+Number of Vertices: 180
+Group: 1
+Minimum number of color: 5
+Average time for running: 18
+Group: 2
+Minimum number of color: 5
+Average time for running: 17
+Group: 3
+Minimum number of color: 4
+Average time for running: 18
+Group: 4
+Minimum number of color: 4
+Average time for running: 20
+---------------
+Number of Vertices: 190
+Group: 1
+Minimum number of color: 5
+Average time for running: 21
+Group: 2
+Minimum number of color: 5
+Average time for running: 20
+Group: 3
+Minimum number of color: 4
+Average time for running: 21
+Group: 4
+Minimum number of color: 4
+Average time for running: 24
+---------------
+Number of Vertices: 200
+Group: 1
+Minimum number of color: 6
+Average time for running: 24
+Group: 2
+Minimum number of color: 5
+Average time for running: 23
+Group: 3
+Minimum number of color: 4
+Average time for running: 24
+Group: 4
+Minimum number of color: 4
+Average time for running: 27
+---------------
+Number of Vertices: 210
+Group: 1
+Minimum number of color: 6
+Average time for running: 29
+Group: 2
+Minimum number of color: 5
+Average time for running: 27
+Group: 3
+Minimum number of color: 5
+Average time for running: 28
+Group: 4
+Minimum number of color: 4
+Average time for running: 31
+---------------
+Number of Vertices: 220
+Group: 1
+Minimum number of color: 6
+Average time for running: 32
+Group: 2
+Minimum number of color: 5
+Average time for running: 31
+Group: 3
+Minimum number of color: 5
+Average time for running: 32
+Group: 4
+Minimum number of color: 4
+Average time for running: 35
+---------------
+Number of Vertices: 230
+Group: 1
+Minimum number of color: 6
+Average time for running: 35
+Group: 2
+Minimum number of color: 5
+Average time for running: 35
+Group: 3
+Minimum number of color: 5
+Average time for running: 37
+Group: 4
+Minimum number of color: 4
+Average time for running: 40
+---------------
+Number of Vertices: 240
+Group: 1
+Minimum number of color: 6
+Average time for running: 40
+Group: 2
+Minimum number of color: 5
+Average time for running: 40
+Group: 3
+Minimum number of color: 4
+Average time for running: 41
+Group: 4
+Minimum number of color: 4
+Average time for running: 46
+---------------
+Number of Vertices: 250
+Group: 1
+Minimum number of color: 7
+Average time for running: 45
+Group: 2
+Minimum number of color: 5
+Average time for running: 44
+Group: 3
+Minimum number of color: 5
+Average time for running: 47
+Group: 4
+Minimum number of color: 4
+Average time for running: 52
+---------------
+Number of Vertices: 260
+Group: 1
+Minimum number of color: 6
+Average time for running: 51
+Group: 2
+Minimum number of color: 6
+Average time for running: 49
+Group: 3
+Minimum number of color: 5
+Average time for running: 52
+Group: 4
+Minimum number of color: 4
+Average time for running: 8019
+---------------
+Number of Vertices: 270
+Group: 1
+Minimum number of color: 5
+Average time for running: 56
+Group: 2
+Minimum number of color: 6
+Average time for running: 57
+Group: 3
+Minimum number of color: 5
+Average time for running: 59
+Group: 4
+Minimum number of color: 3
+Average time for running: 67
+---------------
+Number of Vertices: 280
+Group: 1
+Minimum number of color: 6
+Average time for running: 61
+Group: 2
+Minimum number of color: 5
+Average time for running: 62
+Group: 3
+Minimum number of color: 5
+Average time for running: 64
+Group: 4
+Minimum number of color: 4
+Average time for running: 70
+---------------
+Number of Vertices: 290
+Group: 1
+Minimum number of color: 6
+Average time for running: 67
+Group: 2
+Minimum number of color: 5
+Average time for running: 68
+Group: 3
+Minimum number of color: 4
+Average time for running: 71
+Group: 4
+Minimum number of color: 4
+Average time for running: 80
+---------------
+Number of Vertices: 300
+Group: 1
+Minimum number of color: 7
+Average time for running: 73
+Group: 2
+Minimum number of color: 6
+Average time for running: 75
+Group: 3
+Minimum number of color: 5
+Average time for running: 79
+Group: 4
+Minimum number of color: 4
+Average time for running: 2540
+---------------
+Number of Vertices: 310
+Group: 1
+Minimum number of color: 7
+Average time for running: 85
+Group: 2
+Minimum number of color: 5
+Average time for running: 87
+Group: 3
+Minimum number of color: 4
+Average time for running: 90
+Group: 4
+Minimum number of color: 4
+Average time for running: 97
+---------------
+Number of Vertices: 320
+Group: 1
+Minimum number of color: 7
+Average time for running: 90
+Group: 2
+Minimum number of color: 5
+Average time for running: 90
+Group: 3
+Minimum number of color: 5
+Average time for running: 96
+Group: 4
+Minimum number of color: 4
+Average time for running: 104
+---------------
+Number of Vertices: 330
+Group: 1
+Minimum number of color: 6
+Average time for running: 97
+Group: 2
+Minimum number of color: 5
+Average time for running: 100
+Group: 3
+Minimum number of color: 5
+Average time for running: 105
+Group: 4
+Minimum number of color: 4
+Average time for running: 115
+---------------
+Number of Vertices: 340
+Group: 1
+Minimum number of color: 6
+Average time for running: 107
+Group: 2
+Minimum number of color: 4
+Average time for running: 110
+Group: 3
+Minimum number of color: 5
+Average time for running: 115
+Group: 4
+Minimum number of color: 4
+Average time for running: 1361
+---------------
+Number of Vertices: 350
+Group: 1
+Minimum number of color: 7
+Average time for running: 127
+Group: 2
+Minimum number of color: 6
+Average time for running: 122
+Group: 3
+Minimum number of color: 5
+Average time for running: 129
+Group: 4
+Minimum number of color: 5
+Average time for running: 136
+---------------
+Number of Vertices: 360
+Group: 1
+Minimum number of color: 7
+Average time for running: 124
+Group: 2
+Minimum number of color: 6
+Average time for running: 127
+Group: 3
+Minimum number of color: 5
+Average time for running: 141
+Group: 4
+Minimum number of color: 5
+Average time for running: 156
+---------------
+Number of Vertices: 370
+Group: 1
+Minimum number of color: 7
+Average time for running: 135
+Group: 2
+Minimum number of color: 6
+Average time for running: 141
+Group: 3
+Minimum number of color: 5
+Average time for running: 145
+Group: 4
+Minimum number of color: 5
+Average time for running: 159
+---------------
+Number of Vertices: 380
+Group: 1
+Minimum number of color: 7
+Average time for running: 146
+Group: 2
+Minimum number of color: 6
+Average time for running: 149
+Group: 3
+Minimum number of color: 5
+Average time for running: 157
+Group: 4
+Minimum number of color: 4
+Average time for running: 178
+---------------
+Number of Vertices: 390
+Group: 1
+Minimum number of color: 7
+Average time for running: 157
+Group: 2
+Minimum number of color: 6
+Average time for running: 164
+Group: 3
+Minimum number of color: 4
+Average time for running: 8157
+Group: 4
+Minimum number of color: 4
+Average time for running: 206
+---------------
+Number of Vertices: 400
+Group: 1
+Minimum number of color: 7
+Average time for running: 184
+Group: 2
+Minimum number of color: 5
+Average time for running: 179
+Group: 3
+Minimum number of color: 6
+Average time for running: 190
+Group: 4
+Minimum number of color: 4
+Average time for running: 212
+---------------
+Number of Vertices: 410
+Group: 1
+Minimum number of color: 7
+Average time for running: 179
+Group: 2
+Minimum number of color: 6
+Average time for running: 185
+Group: 3
+Minimum number of color: 5
+Average time for running: 194
+Group: 4
+Minimum number of color: 4
+Average time for running: 211
+---------------
+Number of Vertices: 420
+Group: 1
+Minimum number of color: 5
+Average time for running: 192
+Group: 2
+Minimum number of color: 6
+Average time for running: 195
+Group: 3
+Minimum number of color: 5
+Average time for running: 207
+Group: 4
+Minimum number of color: 4
+Average time for running: 228
+---------------
+Number of Vertices: 430
+Group: 1
+Minimum number of color: 7
+Average time for running: 205
+Group: 2
+Minimum number of color: 5
+Average time for running: 210
+Group: 3
+Minimum number of color: 6
+Average time for running: 233
+Group: 4
+Minimum number of color: 5
+Average time for running: 257
+---------------
+Number of Vertices: 440
+Group: 1
+Minimum number of color: 7
+Average time for running: 226
+Group: 2
+Minimum number of color: 6
+Average time for running: 230
+Group: 3
+Minimum number of color: 5
+Average time for running: 249
+Group: 4
+Minimum number of color: 4
+Average time for running: 271
+---------------
+Number of Vertices: 450
+Group: 1
+Minimum number of color: 7
+Average time for running: 244
+Group: 2
+Minimum number of color: 6
+Average time for running: 250
+Group: 3
+Minimum number of color: 5
+Average time for running: 262
+Group: 4
+Minimum number of color: 5
+Average time for running: 287
+---------------
+Number of Vertices: 460
+Group: 1
+Minimum number of color: 7
+Average time for running: 258
+Group: 2
+Minimum number of color: 6
+Average time for running: 264
+Group: 3
+Minimum number of color: 5
+Average time for running: 280
+Group: 4
+Minimum number of color: 4
+Average time for running: 304
+---------------
+Number of Vertices: 470
+Group: 1
+Minimum number of color: 8
+Average time for running: 274
+Group: 2
+Minimum number of color: 6
+Average time for running: 282
+Group: 3
+Minimum number of color: 5
+Average time for running: 302
+Group: 4
+Minimum number of color: 4
+Average time for running: 327
+---------------
+Number of Vertices: 480
+Group: 1
+Minimum number of color: 7
+Average time for running: 291
+Group: 2
+Minimum number of color: 6
+Average time for running: 302
+Group: 3
+Minimum number of color: 4
+Average time for running: 313
+Group: 4
+Minimum number of color: 4
+Average time for running: 350
+---------------
+Number of Vertices: 490
+Group: 1
+Minimum number of color: 6
+Average time for running: 311
+Group: 2
+Minimum number of color: 7
+Average time for running: 320
+Group: 3
+Minimum number of color: 4
+Average time for running: 336
+Group: 4
+Minimum number of color: 5
+Average time for running: 367
+---------------
+Number of Vertices: 500
+Group: 1
+Minimum number of color: 7
+Average time for running: 328
+Group: 2
+Minimum number of color: 6
+Average time for running: 337
+Group: 3
+Minimum number of color: 5
+Average time for running: 358
+Group: 4
+Minimum number of color: 4
+Average time for running: 391
+---------------
+Number of Vertices: 510
+Group: 1
+Minimum number of color: 8
+Average time for running: 361
+Group: 2
+Minimum number of color: 5
+Average time for running: 375
+Group: 3
+Minimum number of color: 5
+Average time for running: 383
+Group: 4
+Minimum number of color: 5
+Average time for running: 417
+---------------
+Number of Vertices: 520
+Group: 1
+Minimum number of color: 8
+Average time for running: 375
+Group: 2
+Minimum number of color: 6
+Average time for running: 385
+Group: 3
+Minimum number of color: 6
+Average time for running: 402
+Group: 4
+Minimum number of color: 5
+Average time for running: 439
+---------------
+Number of Vertices: 530
+Group: 1
+Minimum number of color: 7
+Average time for running: 394
+Group: 2
+Minimum number of color: 6
+Average time for running: 405
+Group: 3
+Minimum number of color: 5
+Average time for running: 432
+Group: 4
+Minimum number of color: 4
+Average time for running: 473
+---------------
+Number of Vertices: 540
+Group: 1
+Minimum number of color: 8
+Average time for running: 417
+Group: 2
+Minimum number of color: 6
+Average time for running: 429
+Group: 3
+Minimum number of color: 5
+Average time for running: 454
+Group: 4
+Minimum number of color: 5
+Average time for running: 510
+---------------
+Number of Vertices: 550
+Group: 1
+Minimum number of color: 8
+Average time for running: 438
+Group: 2
+Minimum number of color: 6
+Average time for running: 450
+Group: 3
+Minimum number of color: 6
+Average time for running: 477
+Group: 4
+Minimum number of color: 4
+Average time for running: 524
+---------------
+Number of Vertices: 560
+Group: 1
+Minimum number of color: 8
+Average time for running: 467
+Group: 2
+Minimum number of color: 5
+Average time for running: 478
+Group: 3
+Minimum number of color: 6
+Average time for running: 508
+Group: 4
+Minimum number of color: 5
+Average time for running: 549
+---------------
+Number of Vertices: 570
+Group: 1
+Minimum number of color: 7
+Average time for running: 486
+Group: 2
+Minimum number of color: 6
+Average time for running: 511
+Group: 3
+Minimum number of color: 6
+Average time for running: 531
+Group: 4
+Minimum number of color: 5
+Average time for running: 579
+---------------
+Number of Vertices: 580
+Group: 1
+Minimum number of color: 8
+Average time for running: 523
+Group: 2
+Minimum number of color: 6
+Average time for running: 559
+Group: 3
+Minimum number of color: 5
+Average time for running: 551
+Group: 4
+Minimum number of color: 5
+Average time for running: 614
+---------------
+Number of Vertices: 590
+Group: 1
+Minimum number of color: 8
+Average time for running: 532
+Group: 2
+Minimum number of color: 6
+Average time for running: 552
+Group: 3
+Minimum number of color: 5
+Average time for running: 583
+Group: 4
+Minimum number of color: 4
+Average time for running: 644
+---------------
+Number of Vertices: 600
+Group: 1
+Minimum number of color: 8
+Average time for running: 575
+Group: 2
+Minimum number of color: 7
+Average time for running: 590
+Group: 3
+Minimum number of color: 5
+Average time for running: 622
+Group: 4
+Minimum number of color: 5
+Average time for running: 684
+---------------
+Number of Vertices: 10
+Group: 1
+Minimum number of color: 2
+Average time for running: 2
+Group: 2
+Minimum number of color: 2
+Average time for running: 0
+Group: 3
+Minimum number of color: 2
+Average time for running: 0
+Group: 4
+Minimum number of color: 2
+Average time for running: 0
+---------------
+Number of Vertices: 20
+Group: 1
+Minimum number of color: 3
+Average time for running: 0
+Group: 2
+Minimum number of color: 2
+Average time for running: 0
+Group: 3
+Minimum number of color: 3
+Average time for running: 0
+Group: 4
+Minimum number of color: 2
+Average time for running: 0
+---------------
+Number of Vertices: 30
+Group: 1
+Minimum number of color: 4
+Average time for running: 0
+Group: 2
+Minimum number of color: 3
+Average time for running: 1
+Group: 3
+Minimum number of color: 3
+Average time for running: 1
+Group: 4
+Minimum number of color: 3
+Average time for running: 0
+---------------
+Number of Vertices: 40
+Group: 1
+Minimum number of color: 4
+Average time for running: 1
+Group: 2
+Minimum number of color: 3
+Average time for running: 1
+Group: 3
+Minimum number of color: 3
+Average time for running: 1
+Group: 4
+Minimum number of color: 2
+Average time for running: 1
+---------------
+Number of Vertices: 50
+Group: 1
+Minimum number of color: 3
+Average time for running: 1
+Group: 2
+Minimum number of color: 3
+Average time for running: 1
+Group: 3
+Minimum number of color: 3
+Average time for running: 1
+Group: 4
+Minimum number of color: 3
+Average time for running: 1
+---------------
+Number of Vertices: 60
+Group: 1
+Minimum number of color: 4
+Average time for running: 1
+Group: 2
+Minimum number of color: 3
+Average time for running: 1
+Group: 3
+Minimum number of color: 3
+Average time for running: 1
+Group: 4
+Minimum number of color: 3
+Average time for running: 1
+---------------
+Number of Vertices: 70
+Group: 1
+Minimum number of color: 4
+Average time for running: 2
+Group: 2
+Minimum number of color: 4
+Average time for running: 1
+Group: 3
+Minimum number of color: 3
+Average time for running: 1
+Group: 4
+Minimum number of color: 2
+Average time for running: 2
+---------------
+Number of Vertices: 80
+Group: 1
+Minimum number of color: 5
+Average time for running: 2
+Group: 2
+Minimum number of color: 4
+Average time for running: 2
+Group: 3
+Minimum number of color: 3
+Average time for running: 2
+Group: 4
+Minimum number of color: 4
+Average time for running: 2
+---------------
+Number of Vertices: 90
+Group: 1
+Minimum number of color: 5
+Average time for running: 3
+Group: 2
+Minimum number of color: 4
+Average time for running: 3
+Group: 3
+Minimum number of color: 4
+Average time for running: 3
+Group: 4
+Minimum number of color: 4
+Average time for running: 3
+---------------
+Number of Vertices: 100
+Group: 1
+Minimum number of color: 5
+Average time for running: 4
+Group: 2
+Minimum number of color: 4
+Average time for running: 4
+Group: 3
+Minimum number of color: 4
+Average time for running: 4
+Group: 4
+Minimum number of color: 3
+Average time for running: 4
+---------------
+Number of Vertices: 110
+Group: 1
+Minimum number of color: 5
+Average time for running: 5
+Group: 2
+Minimum number of color: 4
+Average time for running: 5
+Group: 3
+Minimum number of color: 4
+Average time for running: 5
+Group: 4
+Minimum number of color: 3
+Average time for running: 6
+---------------
+Number of Vertices: 120
+Group: 1
+Minimum number of color: 5
+Average time for running: 7
+Group: 2
+Minimum number of color: 4
+Average time for running: 6
+Group: 3
+Minimum number of color: 4
+Average time for running: 6
+Group: 4
+Minimum number of color: 4
+Average time for running: 6
+---------------
+Number of Vertices: 130
+Group: 1
+Minimum number of color: 5
+Average time for running: 8
+Group: 2
+Minimum number of color: 5
+Average time for running: 7
+Group: 3
+Minimum number of color: 3
+Average time for running: 7
+Group: 4
+Minimum number of color: 4
+Average time for running: 8
+---------------
+Number of Vertices: 140
+Group: 1
+Minimum number of color: 6
+Average time for running: 10
+Group: 2
+Minimum number of color: 5
+Average time for running: 9
+Group: 3
+Minimum number of color: 4
+Average time for running: 9
+Group: 4
+Minimum number of color: 4
+Average time for running: 10
+---------------
+Number of Vertices: 150
+Group: 1
+Minimum number of color: 6
+Average time for running: 12
+Group: 2
+Minimum number of color: 5
+Average time for running: 11
+Group: 3
+Minimum number of color: 4
+Average time for running: 11
+Group: 4
+Minimum number of color: 4
+Average time for running: 13
+---------------
+Number of Vertices: 160
+Group: 1
+Minimum number of color: 6
+Average time for running: 14
+Group: 2
+Minimum number of color: 5
+Average time for running: 17
+Group: 3
+Minimum number of color: 4
+Average time for running: 18
+Group: 4
+Minimum number of color: 4
+Average time for running: 16
+---------------
+Number of Vertices: 170
+Group: 1
+Minimum number of color: 6
+Average time for running: 16
+Group: 2
+Minimum number of color: 5
+Average time for running: 17
+Group: 3
+Minimum number of color: 4
+Average time for running: 17
+Group: 4
+Minimum number of color: 4
+Average time for running: 18
+---------------
+Number of Vertices: 180
+Group: 1
+Minimum number of color: 6
+Average time for running: 19
+Group: 2
+Minimum number of color: 5
+Average time for running: 17
+Group: 3
+Minimum number of color: 5
+Average time for running: 19
+Group: 4
+Minimum number of color: 4
+Average time for running: 22
+---------------
+Number of Vertices: 190
+Group: 1
+Minimum number of color: 6
+Average time for running: 23
+Group: 2
+Minimum number of color: 6
+Average time for running: 23
+Group: 3
+Minimum number of color: 4
+Average time for running: 22
+Group: 4
+Minimum number of color: 4
+Average time for running: 24
+---------------
+Number of Vertices: 200
+Group: 1
+Minimum number of color: 6
+Average time for running: 25
+Group: 2
+Minimum number of color: 5
+Average time for running: 24
+Group: 3
+Minimum number of color: 4
+Average time for running: 25
+Group: 4
+Minimum number of color: 3
+Average time for running: 30
+---------------
+Number of Vertices: 210
+Group: 1
+Minimum number of color: 6
+Average time for running: 28
+Group: 2
+Minimum number of color: 5
+Average time for running: 27
+Group: 3
+Minimum number of color: 4
+Average time for running: 28
+Group: 4
+Minimum number of color: 4
+Average time for running: 31
+---------------
+Number of Vertices: 220
+Group: 1
+Minimum number of color: 7
+Average time for running: 32
+Group: 2
+Minimum number of color: 5
+Average time for running: 32
+Group: 3
+Minimum number of color: 4
+Average time for running: 33
+Group: 4
+Minimum number of color: 4
+Average time for running: 38
+---------------
+Number of Vertices: 230
+Group: 1
+Minimum number of color: 6
+Average time for running: 36
+Group: 2
+Minimum number of color: 5
+Average time for running: 37
+Group: 3
+Minimum number of color: 4
+Average time for running: 37
+Group: 4
+Minimum number of color: 4
+Average time for running: 40
+---------------
+Number of Vertices: 240
+Group: 1
+Minimum number of color: 6
+Average time for running: 40
+Group: 2
+Minimum number of color: 5
+Average time for running: 41
+Group: 3
+Minimum number of color: 4
+Average time for running: 44
+Group: 4
+Minimum number of color: 4
+Average time for running: 48
+---------------
+Number of Vertices: 250
+Group: 1
+Minimum number of color: 6
+Average time for running: 45
+Group: 2
+Minimum number of color: 5
+Average time for running: 45
+Group: 3
+Minimum number of color: 4
+Average time for running: 48
+Group: 4
+Minimum number of color: 4
+Average time for running: 52
+---------------
+Number of Vertices: 260
+Group: 1
+Minimum number of color: 6
+Average time for running: 51
+Group: 2
+Minimum number of color: 6
+Average time for running: 50
+Group: 3
+Minimum number of color: 5
+Average time for running: 52
+Group: 4
+Minimum number of color: 4
+Average time for running: 57
+---------------
+Number of Vertices: 270
+Group: 1
+Minimum number of color: 6
+Average time for running: 56
+Group: 2
+Minimum number of color: 6
+Average time for running: 56
+Group: 3
+Minimum number of color: 5
+Average time for running: 59
+Group: 4
+Minimum number of color: 4
+Average time for running: 65
+---------------
+Number of Vertices: 280
+Group: 1
+Minimum number of color: 6
+Average time for running: 62
+Group: 2
+Minimum number of color: 6
+Average time for running: 62
+Group: 3
+Minimum number of color: 4
+Average time for running: 67
+Group: 4
+Minimum number of color: 4
+Average time for running: 72
+---------------
+Number of Vertices: 290
+Group: 1
+Minimum number of color: 7
+Average time for running: 68
+Group: 2
+Minimum number of color: 5
+Average time for running: 67
+Group: 3
+Minimum number of color: 5
+Average time for running: 70
+Group: 4
+Minimum number of color: 4
+Average time for running: 79
+---------------
+Number of Vertices: 300
+Group: 1
+Minimum number of color: 6
+Average time for running: 75
+Group: 2
+Minimum number of color: 6
+Average time for running: 75
+Group: 3
+Minimum number of color: 5
+Average time for running: 78
+Group: 4
+Minimum number of color: 4
+Average time for running: 87
+---------------
+Number of Vertices: 310
+Group: 1
+Minimum number of color: 6
+Average time for running: 85
+Group: 2
+Minimum number of color: 5
+Average time for running: 94
+Group: 3
+Minimum number of color: 5
+Average time for running: 92
+Group: 4
+Minimum number of color: 4
+Average time for running: 98
+---------------
+Number of Vertices: 320
+Group: 1
+Minimum number of color: 7
+Average time for running: 92
+Group: 2
+Minimum number of color: 6
+Average time for running: 91
+Group: 3
+Minimum number of color: 4
+Average time for running: 97
+Group: 4
+Minimum number of color: 4
+Average time for running: 106
+---------------
+Number of Vertices: 330
+Group: 1
+Minimum number of color: 7
+Average time for running: 98
+Group: 2
+Minimum number of color: 5
+Average time for running: 99
+Group: 3
+Minimum number of color: 5
+Average time for running: 106
+Group: 4
+Minimum number of color: 4
+Average time for running: 118
+---------------
+Number of Vertices: 340
+Group: 1
+Minimum number of color: 7
+Average time for running: 107
+Group: 2
+Minimum number of color: 6
+Average time for running: 108
+Group: 3
+Minimum number of color: 5
+Average time for running: 114
+Group: 4
+Minimum number of color: 4
+Average time for running: 126
+---------------
+Number of Vertices: 350
+Group: 1
+Minimum number of color: 7
+Average time for running: 115
+Group: 2
+Minimum number of color: 6
+Average time for running: 118
+Group: 3
+Minimum number of color: 5
+Average time for running: 124
+Group: 4
+Minimum number of color: 3
+Average time for running: 140
+---------------
+Number of Vertices: 360
+Group: 1
+Minimum number of color: 6
+Average time for running: 129
+Group: 2
+Minimum number of color: 5
+Average time for running: 129
+Group: 3
+Minimum number of color: 4
+Average time for running: 136
+Group: 4
+Minimum number of color: 4
+Average time for running: 150
+---------------
+Number of Vertices: 370
+Group: 1
+Minimum number of color: 7
+Average time for running: 140
+Group: 2
+Minimum number of color: 5
+Average time for running: 142
+Group: 3
+Minimum number of color: 5
+Average time for running: 149
+Group: 4
+Minimum number of color: 4
+Average time for running: 163
+---------------
+Number of Vertices: 10
+Group: 1
+Minimum number of color: 2
+Average time for running: 1
+Group: 2
+Minimum number of color: 2
+Average time for running: 0
+Group: 3
+Minimum number of color: 2
+Average time for running: 0
+Group: 4
+Minimum number of color: 2
+Average time for running: 0
+---------------
+Number of Vertices: 20
+Group: 1
+Minimum number of color: 3
+Average time for running: 0
+Group: 2
+Minimum number of color: 3
+Average time for running: 0
+Group: 3
+Minimum number of color: 3
+Average time for running: 0
+Group: 4
+Minimum number of color: 2
+Average time for running: 0
+---------------
+Number of Vertices: 30
+Group: 1
+Minimum number of color: 3
+Average time for running: 0
+Group: 2
+Minimum number of color: 3
+Average time for running: 0
+Group: 3
+Minimum number of color: 3
+Average time for running: 0
+Group: 4
+Minimum number of color: 2
+Average time for running: 0
+---------------
+Number of Vertices: 40
+Group: 1
+Minimum number of color: 4
+Average time for running: 1
+Group: 2
+Minimum number of color: 3
+Average time for running: 1
+Group: 3
+Minimum number of color: 3
+Average time for running: 1
+Group: 4
+Minimum number of color: 3
+Average time for running: 1
+---------------
+Number of Vertices: 50
+Group: 1
+Minimum number of color: 4
+Average time for running: 1
+Group: 2
+Minimum number of color: 3
+Average time for running: 1
+Group: 3
+Minimum number of color: 3
+Average time for running: 1
+Group: 4
+Minimum number of color: 3
+Average time for running: 1
+---------------
+Number of Vertices: 60
+Group: 1
+Minimum number of color: 4
+Average time for running: 1
+Group: 2
+Minimum number of color: 4
+Average time for running: 1
+Group: 3
+Minimum number of color: 3
+Average time for running: 1
+Group: 4
+Minimum number of color: 3
+Average time for running: 1
+---------------
+Number of Vertices: 70
+Group: 1
+Minimum number of color: 4
+Average time for running: 2
+Group: 2
+Minimum number of color: 4
+Average time for running: 1
+Group: 3
+Minimum number of color: 3
+Average time for running: 1
+Group: 4
+Minimum number of color: 3
+Average time for running: 2
+---------------
+Number of Vertices: 80
+Group: 1
+Minimum number of color: 5
+Average time for running: 2
+Group: 2
+Minimum number of color: 4
+Average time for running: 2
+Group: 3
+Minimum number of color: 3
+Average time for running: 2
+Group: 4
+Minimum number of color: 3
+Average time for running: 2
+---------------
+Number of Vertices: 90
+Group: 1
+Minimum number of color: 4
+Average time for running: 3
+Group: 2
+Minimum number of color: 4
+Average time for running: 3
+Group: 3
+Minimum number of color: 3
+Average time for running: 3
+Group: 4
+Minimum number of color: 3
+Average time for running: 3
+---------------
+Number of Vertices: 100
+Group: 1
+Minimum number of color: 5
+Average time for running: 4
+Group: 2
+Minimum number of color: 4
+Average time for running: 4
+Group: 3
+Minimum number of color: 4
+Average time for running: 4
+Group: 4
+Minimum number of color: 2
+Average time for running: 4
+---------------
+Number of Vertices: 110
+Group: 1
+Minimum number of color: 4
+Average time for running: 5
+Group: 2
+Minimum number of color: 4
+Average time for running: 5
+Group: 3
+Minimum number of color: 4
+Average time for running: 5
+Group: 4
+Minimum number of color: 3
+Average time for running: 5
+---------------
+Number of Vertices: 120
+Group: 1
+Minimum number of color: 5
+Average time for running: 7
+Group: 2
+Minimum number of color: 4
+Average time for running: 6
+Group: 3
+Minimum number of color: 4
+Average time for running: 6
+Group: 4
+Minimum number of color: 3
+Average time for running: 6
+---------------
+Number of Vertices: 130
+Group: 1
+Minimum number of color: 5
+Average time for running: 8
+Group: 2
+Minimum number of color: 4
+Average time for running: 7
+Group: 3
+Minimum number of color: 4
+Average time for running: 7
+Group: 4
+Minimum number of color: 3
+Average time for running: 8
+---------------
+Number of Vertices: 140
+Group: 1
+Minimum number of color: 5
+Average time for running: 10
+Group: 2
+Minimum number of color: 4
+Average time for running: 9
+Group: 3
+Minimum number of color: 4
+Average time for running: 9
+Group: 4
+Minimum number of color: 4
+Average time for running: 10
+---------------
+Number of Vertices: 150
+Group: 1
+Minimum number of color: 5
+Average time for running: 11
+Group: 2
+Minimum number of color: 5
+Average time for running: 11
+Group: 3
+Minimum number of color: 4
+Average time for running: 11
+Group: 4
+Minimum number of color: 4
+Average time for running: 12
+---------------
+Number of Vertices: 160
+Group: 1
+Minimum number of color: 6
+Average time for running: 14
+Group: 2
+Minimum number of color: 5
+Average time for running: 12
+Group: 3
+Minimum number of color: 3
+Average time for running: 13
+Group: 4
+Minimum number of color: 4
+Average time for running: 14
+---------------
+Number of Vertices: 170
+Group: 1
+Minimum number of color: 6
+Average time for running: 16
+Group: 2
+Minimum number of color: 5
+Average time for running: 15
+Group: 3
+Minimum number of color: 4
+Average time for running: 15
+Group: 4
+Minimum number of color: 3
+Average time for running: 17
+---------------
+Number of Vertices: 180
+Group: 1
+Minimum number of color: 6
+Average time for running: 18
+Group: 2
+Minimum number of color: 4
+Average time for running: 17
+Group: 3
+Minimum number of color: 4
+Average time for running: 18
+Group: 4
+Minimum number of color: 4
+Average time for running: 20
+---------------
+Number of Vertices: 190
+Group: 1
+Minimum number of color: 6
+Average time for running: 21
+Group: 2
+Minimum number of color: 5
+Average time for running: 20
+Group: 3
+Minimum number of color: 4
+Average time for running: 22
+Group: 4
+Minimum number of color: 4
+Average time for running: 23
+---------------
+Number of Vertices: 200
+Group: 1
+Minimum number of color: 6
+Average time for running: 24
+Group: 2
+Minimum number of color: 5
+Average time for running: 24
+Group: 3
+Minimum number of color: 5
+Average time for running: 25
+Group: 4
+Minimum number of color: 4
+Average time for running: 28
+---------------
+Number of Vertices: 210
+Group: 1
+Minimum number of color: 6
+Average time for running: 28
+Group: 2
+Minimum number of color: 5
+Average time for running: 27
+Group: 3
+Minimum number of color: 5
+Average time for running: 28
+Group: 4
+Minimum number of color: 4
+Average time for running: 31
+---------------
+Number of Vertices: 220
+Group: 1
+Minimum number of color: 6
+Average time for running: 32
+Group: 2
+Minimum number of color: 5
+Average time for running: 30
+Group: 3
+Minimum number of color: 4
+Average time for running: 32
+Group: 4
+Minimum number of color: 4
+Average time for running: 35
+---------------
+Number of Vertices: 230
+Group: 1
+Minimum number of color: 7
+Average time for running: 35
+Group: 2
+Minimum number of color: 5
+Average time for running: 34
+Group: 3
+Minimum number of color: 4
+Average time for running: 37
+Group: 4
+Minimum number of color: 3
+Average time for running: 41
+---------------
+Number of Vertices: 240
+Group: 1
+Minimum number of color: 6
+Average time for running: 41
+Group: 2
+Minimum number of color: 5
+Average time for running: 40
+Group: 3
+Minimum number of color: 4
+Average time for running: 42
+Group: 4
+Minimum number of color: 3
+Average time for running: 46
+---------------
+Number of Vertices: 250
+Group: 1
+Minimum number of color: 6
+Average time for running: 46
+Group: 2
+Minimum number of color: 5
+Average time for running: 45
+Group: 3
+Minimum number of color: 4
+Average time for running: 48
+Group: 4
+Minimum number of color: 4
+Average time for running: 52
+---------------
+Number of Vertices: 260
+Group: 1
+Minimum number of color: 6
+Average time for running: 50
+Group: 2
+Minimum number of color: 5
+Average time for running: 49
+Group: 3
+Minimum number of color: 4
+Average time for running: 52
+Group: 4
+Minimum number of color: 4
+Average time for running: 58
+---------------
+Number of Vertices: 270
+Group: 1
+Minimum number of color: 6
+Average time for running: 56
+Group: 2
+Minimum number of color: 5
+Average time for running: 55
+Group: 3
+Minimum number of color: 4
+Average time for running: 58
+Group: 4
+Minimum number of color: 3
+Average time for running: 65
+---------------
+Number of Vertices: 280
+Group: 1
+Minimum number of color: 7
+Average time for running: 61
+Group: 2
+Minimum number of color: 6
+Average time for running: 61
+Group: 3
+Minimum number of color: 5
+Average time for running: 64
+Group: 4
+Minimum number of color: 4
+Average time for running: 72
+---------------
+Number of Vertices: 290
+Group: 1
+Minimum number of color: 6
+Average time for running: 68
+Group: 2
+Minimum number of color: 6
+Average time for running: 68
+Group: 3
+Minimum number of color: 5
+Average time for running: 71
+Group: 4
+Minimum number of color: 3
+Average time for running: 80
+---------------
+Number of Vertices: 300
+Group: 1
+Minimum number of color: 6
+Average time for running: 74
+Group: 2
+Minimum number of color: 5
+Average time for running: 74
+Group: 3
+Minimum number of color: 5
+Average time for running: 79
+Group: 4
+Minimum number of color: 3
+Average time for running: 87
+---------------
+Number of Vertices: 10
+Group: 1
+Minimum number of color: 3
+Average time for running: 1
+Group: 2
+Minimum number of color: 3
+Average time for running: 0
+Group: 3
+Minimum number of color: 3
+Average time for running: 0
+Group: 4
+Minimum number of color: 3
+Average time for running: 0
+---------------
+Number of Vertices: 20
+Group: 1
+Minimum number of color: 3
+Average time for running: 0
+Group: 2
+Minimum number of color: 4
+Average time for running: 0
+Group: 3
+Minimum number of color: 4
+Average time for running: 0
+Group: 4
+Minimum number of color: 3
+Average time for running: 0
+---------------
+Number of Vertices: 30
+Group: 1
+Minimum number of color: 4
+Average time for running: 0
+Group: 2
+Minimum number of color: 4
+Average time for running: 0
+Group: 3
+Minimum number of color: 4
+Average time for running: 0
+Group: 4
+Minimum number of color: 4
+Average time for running: 0
+---------------
+Number of Vertices: 40
+Group: 1
+Minimum number of color: 4
+Average time for running: 1
+Group: 2
+Minimum number of color: 5
+Average time for running: 1
+Group: 3
+Minimum number of color: 4
+Average time for running: 1
+Group: 4
+Minimum number of color: 4
+Average time for running: 1
+---------------
+Number of Vertices: 50
+Group: 1
+Minimum number of color: 5
+Average time for running: 1
+Group: 2
+Minimum number of color: 5
+Average time for running: 1
+Group: 3
+Minimum number of color: 4
+Average time for running: 1
+Group: 4
+Minimum number of color: 4
+Average time for running: 1
+---------------
+Number of Vertices: 60
+Group: 1
+Minimum number of color: 5
+Average time for running: 1
+Group: 2
+Minimum number of color: 5
+Average time for running: 1
+Group: 3
+Minimum number of color: 5
+Average time for running: 1
+Group: 4
+Minimum number of color: 4
+Average time for running: 1
+---------------
+Number of Vertices: 70
+Group: 1
+Minimum number of color: 6
+Average time for running: 2
+Group: 2
+Minimum number of color: 5
+Average time for running: 1
+Group: 3
+Minimum number of color: 5
+Average time for running: 2
+Group: 4
+Minimum number of color: 4
+Average time for running: 2
+---------------
+Number of Vertices: 80
+Group: 1
+Minimum number of color: 6
+Average time for running: 2
+Group: 2
+Minimum number of color: 5
+Average time for running: 2
+Group: 3
+Minimum number of color: 5
+Average time for running: 2
+Group: 4
+Minimum number of color: 5
+Average time for running: 2
+---------------
+Number of Vertices: 90
+Group: 1
+Minimum number of color: 6
+Average time for running: 3
+Group: 2
+Minimum number of color: 6
+Average time for running: 3
+Group: 3
+Minimum number of color: 5
+Average time for running: 3
+Group: 4
+Minimum number of color: 5
+Average time for running: 3
+---------------
+Number of Vertices: 100
+Group: 1
+Minimum number of color: 6
+Average time for running: 4
+Group: 2
+Minimum number of color: 6
+Average time for running: 4
+Group: 3
+Minimum number of color: 5
+Average time for running: 4
+Group: 4
+Minimum number of color: 5
+Average time for running: 4
+---------------
+Number of Vertices: 110
+Group: 1
+Minimum number of color: 6
+Average time for running: 5
+Group: 2
+Minimum number of color: 6
+Average time for running: 5
+Group: 3
+Minimum number of color: 6
+Average time for running: 5
+Group: 4
+Minimum number of color: 5
+Average time for running: 5
+---------------
+Number of Vertices: 120
+Group: 1
+Minimum number of color: 6
+Average time for running: 7
+Group: 2
+Minimum number of color: 6
+Average time for running: 6
+Group: 3
+Minimum number of color: 5
+Average time for running: 6
+Group: 4
+Minimum number of color: 5
+Average time for running: 6
+---------------
+Number of Vertices: 130
+Group: 1
+Minimum number of color: 7
+Average time for running: 8
+Group: 2
+Minimum number of color: 6
+Average time for running: 7
+Group: 3
+Minimum number of color: 6
+Average time for running: 7
+Group: 4
+Minimum number of color: 5
+Average time for running: 8
+---------------
+Number of Vertices: 140
+Group: 1
+Minimum number of color: 7
+Average time for running: 10
+Group: 2
+Minimum number of color: 6
+Average time for running: 9
+Group: 3
+Minimum number of color: 6
+Average time for running: 9
+Group: 4
+Minimum number of color: 5
+Average time for running: 10
+---------------
+Number of Vertices: 150
+Group: 1
+Minimum number of color: 7
+Average time for running: 11
+Group: 2
+Minimum number of color: 6
+Average time for running: 11
+Group: 3
+Minimum number of color: 6
+Average time for running: 11
+Group: 4
+Minimum number of color: 5
+Average time for running: 12
+---------------
+Number of Vertices: 160
+Group: 1
+Minimum number of color: 7
+Average time for running: 13
+Group: 2
+Minimum number of color: 7
+Average time for running: 12
+Group: 3
+Minimum number of color: 6
+Average time for running: 13
+Group: 4
+Minimum number of color: 5
+Average time for running: 14
+---------------
+Number of Vertices: 170
+Group: 1
+Minimum number of color: 7
+Average time for running: 16
+Group: 2
+Minimum number of color: 7
+Average time for running: 15
+Group: 3
+Minimum number of color: 6
+Average time for running: 15
+Group: 4
+Minimum number of color: 5
+Average time for running: 18
+---------------
+Number of Vertices: 180
+Group: 1
+Minimum number of color: 7
+Average time for running: 19
+Group: 2
+Minimum number of color: 7
+Average time for running: 17
+Group: 3
+Minimum number of color: 6
+Average time for running: 18
+Group: 4
+Minimum number of color: 5
+Average time for running: 20
+---------------
+Number of Vertices: 190
+Group: 1
+Minimum number of color: 7
+Average time for running: 21
+Group: 2
+Minimum number of color: 7
+Average time for running: 20
+Group: 3
+Minimum number of color: 6
+Average time for running: 22
+Group: 4
+Minimum number of color: 6
+Average time for running: 24
+---------------
+Number of Vertices: 200
+Group: 1
+Minimum number of color: 7
+Average time for running: 25
+Group: 2
+Minimum number of color: 7
+Average time for running: 23
+Group: 3
+Minimum number of color: 6
+Average time for running: 24
+Group: 4
+Minimum number of color: 5
+Average time for running: 27
+---------------
+Number of Vertices: 210
+Group: 1
+Minimum number of color: 7
+Average time for running: 30
+Group: 2
+Minimum number of color: 7
+Average time for running: 30
+Group: 3
+Minimum number of color: 6
+Average time for running: 30
+Group: 4
+Minimum number of color: 6
+Average time for running: 32
+---------------
+Number of Vertices: 220
+Group: 1
+Minimum number of color: 8
+Average time for running: 32
+Group: 2
+Minimum number of color: 7
+Average time for running: 31
+Group: 3
+Minimum number of color: 6
+Average time for running: 35
+Group: 4
+Minimum number of color: 6
+Average time for running: 36
+---------------
+Number of Vertices: 230
+Group: 1
+Minimum number of color: 8
+Average time for running: 35
+Group: 2
+Minimum number of color: 7
+Average time for running: 37
+Group: 3
+Minimum number of color: 7
+Average time for running: 37
+Group: 4
+Minimum number of color: 6
+Average time for running: 40
+---------------
+Number of Vertices: 240
+Group: 1
+Minimum number of color: 8
+Average time for running: 40
+Group: 2
+Minimum number of color: 7
+Average time for running: 40
+Group: 3
+Minimum number of color: 6
+Average time for running: 41
+Group: 4
+Minimum number of color: 6
+Average time for running: 46
+---------------
+Number of Vertices: 250
+Group: 1
+Minimum number of color: 8
+Average time for running: 44
+Group: 2
+Minimum number of color: 7
+Average time for running: 44
+Group: 3
+Minimum number of color: 7
+Average time for running: 47
+Group: 4
+Minimum number of color: 6
+Average time for running: 53
+---------------
+Number of Vertices: 260
+Group: 1
+Minimum number of color: 8
+Average time for running: 50
+Group: 2
+Minimum number of color: 7
+Average time for running: 49
+Group: 3
+Minimum number of color: 7
+Average time for running: 52
+Group: 4
+Minimum number of color: 6
+Average time for running: 58
+---------------
+Number of Vertices: 270
+Group: 1
+Minimum number of color: 8
+Average time for running: 56
+Group: 2
+Minimum number of color: 7
+Average time for running: 57
+Group: 3
+Minimum number of color: 7
+Average time for running: 58
+Group: 4
+Minimum number of color: 6
+Average time for running: 65
+---------------
+Number of Vertices: 280
+Group: 1
+Minimum number of color: 8
+Average time for running: 62
+Group: 2
+Minimum number of color: 7
+Average time for running: 62
+Group: 3
+Minimum number of color: 7
+Average time for running: 65
+Group: 4
+Minimum number of color: 6
+Average time for running: 73
+---------------
+Number of Vertices: 290
+Group: 1
+Minimum number of color: 8
+Average time for running: 68
+Group: 2
+Minimum number of color: 8
+Average time for running: 69
+Group: 3
+Minimum number of color: 7
+Average time for running: 73
+Group: 4
+Minimum number of color: 6
+Average time for running: 79
+---------------
+Number of Vertices: 300
+Group: 1
+Minimum number of color: 8
+Average time for running: 75
+Group: 2
+Minimum number of color: 7
+Average time for running: 77
+Group: 3
+Minimum number of color: 7
+Average time for running: 79
+Group: 4
+Minimum number of color: 6
+Average time for running: 87
+---------------
+Number of Vertices: 310
+Group: 1
+Minimum number of color: 8
+Average time for running: 84
+Group: 2
+Minimum number of color: 8
+Average time for running: 82
+Group: 3
+Minimum number of color: 7
+Average time for running: 89
+Group: 4
+Minimum number of color: 6
+Average time for running: 98
+---------------
+Number of Vertices: 320
+Group: 1
+Minimum number of color: 8
+Average time for running: 90
+Group: 2
+Minimum number of color: 8
+Average time for running: 92
+Group: 3
+Minimum number of color: 7
+Average time for running: 95
+Group: 4
+Minimum number of color: 6
+Average time for running: 105
+---------------
+Number of Vertices: 330
+Group: 1
+Minimum number of color: 8
+Average time for running: 99
+Group: 2
+Minimum number of color: 8
+Average time for running: 100
+Group: 3
+Minimum number of color: 7
+Average time for running: 106
+Group: 4
+Minimum number of color: 6
+Average time for running: 115
+---------------
+Number of Vertices: 340
+Group: 1
+Minimum number of color: 8
+Average time for running: 108
+Group: 2
+Minimum number of color: 8
+Average time for running: 109
+Group: 3
+Minimum number of color: 7
+Average time for running: 114
+Group: 4
+Minimum number of color: 6
+Average time for running: 125
+---------------
+Number of Vertices: 350
+Group: 1
+Minimum number of color: 9
+Average time for running: 116
+Group: 2
+Minimum number of color: 8
+Average time for running: 119
+Group: 3
+Minimum number of color: 7
+Average time for running: 125
+Group: 4
+Minimum number of color: 6
+Average time for running: 140
+---------------
+Number of Vertices: 360
+Group: 1
+Minimum number of color: 9
+Average time for running: 126
+Group: 2
+Minimum number of color: 8
+Average time for running: 131
+Group: 3
+Minimum number of color: 7
+Average time for running: 138
+Group: 4
+Minimum number of color: 6
+Average time for running: 152
+---------------
+Number of Vertices: 370
+Group: 1
+Minimum number of color: 8
+Average time for running: 137
+Group: 2
+Minimum number of color: 8
+Average time for running: 139
+Group: 3
+Minimum number of color: 7
+Average time for running: 144
+Group: 4
+Minimum number of color: 6
+Average time for running: 163
+---------------
+Number of Vertices: 380
+Group: 1
+Minimum number of color: 8
+Average time for running: 151
+Group: 2
+Minimum number of color: 8
+Average time for running: 152
+Group: 3
+Minimum number of color: 7
+Average time for running: 159
+Group: 4
+Minimum number of color: 6
+Average time for running: 176
+---------------
+Number of Vertices: 390
+Group: 1
+Minimum number of color: 9
+Average time for running: 163
+Group: 2
+Minimum number of color: 8
+Average time for running: 170
+Group: 3
+Minimum number of color: 7
+Average time for running: 175
+Group: 4
+Minimum number of color: 6
+Average time for running: 190
+---------------
+Number of Vertices: 400
+Group: 1
+Minimum number of color: 9
+Average time for running: 173
+Group: 2
+Minimum number of color: 8
+Average time for running: 176
+Group: 3
+Minimum number of color: 7
+Average time for running: 184
+Group: 4
+Minimum number of color: 6
+Average time for running: 202
+---------------
+Number of Vertices: 410
+Group: 1
+Minimum number of color: 9
+Average time for running: 183
+Group: 2
+Minimum number of color: 8
+Average time for running: 192
+Group: 3
+Minimum number of color: 7
+Average time for running: 202
+Group: 4
+Minimum number of color: 6
+Average time for running: 216
+---------------
+Number of Vertices: 420
+Group: 1
+Minimum number of color: 9
+Average time for running: 201
+Group: 2
+Minimum number of color: 8
+Average time for running: 205
+Group: 3
+Minimum number of color: 7
+Average time for running: 210
+Group: 4
+Minimum number of color: 6
+Average time for running: 232
+---------------
+Number of Vertices: 430
+Group: 1
+Minimum number of color: 9
+Average time for running: 212
+Group: 2
+Minimum number of color: 8
+Average time for running: 217
+Group: 3
+Minimum number of color: 7
+Average time for running: 232
+Group: 4
+Minimum number of color: 6
+Average time for running: 255
+---------------
+Number of Vertices: 440
+Group: 1
+Minimum number of color: 9
+Average time for running: 230
+Group: 2
+Minimum number of color: 8
+Average time for running: 235
+Group: 3
+Minimum number of color: 7
+Average time for running: 260
+Group: 4
+Minimum number of color: 6
+Average time for running: 281
+---------------
+Number of Vertices: 450
+Group: 1
+Minimum number of color: 9
+Average time for running: 254
+Group: 2
+Minimum number of color: 8
+Average time for running: 259
+Group: 3
+Minimum number of color: 7
+Average time for running: 316
+Group: 4
+Minimum number of color: 6
+Average time for running: 367
+---------------
+Number of Vertices: 460
+Group: 1
+Minimum number of color: 9
+Average time for running: 306
+Group: 2
+Minimum number of color: 8
+Average time for running: 274
+Group: 3
+Minimum number of color: 8
+Average time for running: 293
+Group: 4
+Minimum number of color: 6
+Average time for running: 321
+---------------
+Number of Vertices: 470
+Group: 1
+Minimum number of color: 9
+Average time for running: 325
+Group: 2
+Minimum number of color: 8
+Average time for running: 310
+Group: 3
+Minimum number of color: 7
+Average time for running: 315
+Group: 4
+Minimum number of color: 6
+Average time for running: 364
+---------------
